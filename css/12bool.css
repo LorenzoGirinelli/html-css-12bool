@@ -12,6 +12,9 @@
     flex-direction: row;
     flex-wrap: wrap;
 }
+.row-margin{
+    margin-top: 50px;
+}
  /* Cols */
  .col-1{
      flex-basis: calc((100% / 12) * 1);
@@ -84,4 +87,5 @@
 .col-offset-11{
     margin-left: calc((100% / 12) * 11);
 }
+
 

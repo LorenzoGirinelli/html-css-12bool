@@ -6,9 +6,10 @@
     color: white;
     text-align: center;
     line-height: 50px;
+    padding: 10px;
 }
 .nested-box{
     background-color: lime;
     border: 1px solid white;
-    height: 100%;
+    height: 60%;
 }
