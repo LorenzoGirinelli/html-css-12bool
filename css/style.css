@@ -5,5 +5,10 @@
     font-size: 14px;
     color: white;
     text-align: center;
-    vertical-align: middle;
+    line-height: 50px;
+}
+.nested-box{
+    background-color: lime;
+    border: 1px solid white;
+    height: 100%;
 }
